@@ -1,11 +1,10 @@
-# Danger-Shield-Complete-kits
+# Bicycle_Dynamo_With_Bracket-6V_3W
 
 SKU: 108990013
 
 Change Log:
 
 - 2016-12-21: create repos by Jeremy (Jeremy.xiao@seeed.cc)
-- 2017-5-22: change name from Bicycle Dynamo With Bracket to Danger-Shield-Complete-kits by Bill
 
 ## About Seeed
 
